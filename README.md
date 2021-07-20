@@ -11,7 +11,7 @@ If you suspect an issue you can submit one [here](https://github.com/Offline-Che
 1. Install maven `sudo apt-get install maven`
 2. Verify installation `mvn -v`
 3. Clone the repository `git clone git@github.com:Offline-CheatBreaker/CheatBreakerAPINetHandler.git`
-4. Navigate to the new folder `cd cheatbreakerapinethandler`
+4. Navigate to the new folder `cd CheatBreakerAPINetHandler`
 5. Import `pom.xml` into your IDE
 
 ## Compile a Build
