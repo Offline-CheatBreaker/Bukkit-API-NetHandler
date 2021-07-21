@@ -1,6 +1,5 @@
 ## CheatBreaker Bukkit API NetHandler
 
-[![Releases](https://img.shields.io/github/release/Offline-CheatBreaker/Bukkit-API-NetHandler.svg)](https://github.com/Offline-Cheatbreaker/Bukkit-API-NetHandler/releases)
 [![Issues](https://img.shields.io/github/issues/Offline-CheatBreaker/Bukkit-API-NetHandler)](https://github.com/Offline-CheatBreaker/Bukkit-API-NetHandler/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Offline-CheatBreaker/Bukkit-API-NetHandler)](https://github.com/Offline-CheatBreaker/Bukkit-API-NetHandler/pulls)
 <a href="https://discord.gg/CheatBreaker"><img src="https://discordapp.com/api/guilds/633325309395206156/widget.png?style=shield" alt="Discord Server"></a>
