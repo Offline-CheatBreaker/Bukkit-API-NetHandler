@@ -1,11 +1,11 @@
-## CheatBreakerAPINetHandler
+## CheatBreaker Bukkit API NetHandler
 
 [![Releases](https://img.shields.io/github/release/Offline-CheatBreaker/CheatBreakerAPINetHandler.svg)](https://github.com/Offline-Cheatbreaker/CheatBreakerAPINetHandler/releases)
 [![Issues](https://img.shields.io/github/issues/Offline-CheatBreaker/CheatBreakerAPINetHandler)](https://github.com/Offline-CheatBreaker/CheatBreakerAPINetHandler/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Offline-CheatBreaker/CheatBreakerAPINetHandler)](https://github.com/Offline-CheatBreaker/CheatBreakerAPINetHandler/pulls)
 <a href="https://discord.gg/CheatBreaker"><img src="https://discordapp.com/api/guilds/633325309395206156/widget.png?style=shield" alt="Discord Server"></a>
 
-The CheatBreakerAPINetHandler is the container for all of CheatBreaker's packet handling.
+The CheatBreaker Bukkit API NetHandler is the container for all of CheatBreaker's packet handling.
 
 ## Reporting an issue
 
